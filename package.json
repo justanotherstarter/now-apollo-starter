@@ -1,0 +1,15 @@
+{
+  "name": "now-apollo-starter",
+  "description": "A simple starter for GraphQL APIs on Zeit Now",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.15",
+    "graphql": "^14.5.8"
+  }
+}
